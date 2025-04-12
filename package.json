@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-fast-api",
+  "version": "1.0.0",
+  "description": "A dynamic, plug-and-play Express + Mongoose API generator for fast CRUD development.",
+  "main": "index.js",
+  "type": "module",
+  "author": "Nkiko Hertier",
+  "license": "MIT",
+  "keywords": [
+    "mongoose",
+    "express",
+    "api",
+    "crud",
+    "fastapi",
+    "rest",
+    "dynamic-router",
+    "mongodb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/mongoose-fast-api"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/mongoose-fast-api/issues"
+  },
+  "homepage": "https://github.com/your-username/mongoose-fast-api#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
