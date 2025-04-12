@@ -1,11 +1,12 @@
 
-# 🚀 MoongoesFastApi
+# 🚀 CruddyCat
 
+*CruddyCat* is a lightweight and powerful Express + Mongoose API generator that dynamically creates full CRUD routes based on your Mongoose schema. Designed for rapid development, it lets you build scalable RESTful APIs in seconds with zero boilerplate—just plug in your models, connect to MongoDB, and go live. Perfect for prototyping, admin panels, or production-ready backends.
 
 ## 📦 Installation
 
 ```bash
-npm install moongoes-fast-api
+npm install cruddy-cat
 ```
 
 ---
